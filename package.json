@@ -1,0 +1,25 @@
+{
+  "name": "trial-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanielmillard/trial-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanielmillard/trial-backend/issues"
+  },
+  "homepage": "https://github.com/nathanielmillard/trial-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.18",
+    "pg": "^8.5.1",
+    "postgres": "^1.0.2"
+  }
+}
